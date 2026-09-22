@@ -1,0 +1,1 @@
+list = [{"titulo":"estudar SQL","status" : "pendente"}, {"titulo": "revisar PR", "status" : "pendente"}]
